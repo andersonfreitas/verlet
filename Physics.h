@@ -5,7 +5,7 @@
 #include <windows.h>
 #endif
 
-#include <GL/glut.h>
+#include <GLUT/glut.h>
 #include <math.h>
 #include <iostream>
 
